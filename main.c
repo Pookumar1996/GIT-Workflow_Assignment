@@ -1,6 +1,7 @@
 This is the GIT Workflow Assignment
 
 
+
 main{
 
 	Merge(){
@@ -17,5 +18,14 @@ feature1{
 
 
 
+
+
+feature2{
+
+	Function2(){
+	add a,b
+	}
+
+}
 
 
