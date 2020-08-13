@@ -16,10 +16,6 @@ feature1{
 }
 
 
-
-
-
-
 feature2{
 
 	Function2(){
@@ -28,4 +24,10 @@ feature2{
 
 }
 
+Security patch{
 
+	secure(){
+		test;
+	}
+
+}
