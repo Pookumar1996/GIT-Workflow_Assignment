@@ -1,21 +1,21 @@
 This is the GIT Workflow Assignment
 
-
+<<<<<<< HEAD
 main{
 
 	Merge(){
 	add f1,f2
-
+=======
 feature1{
 
 	Function(){
 
-
+>>>>>>> feature1
 	}
 }
 
 
+<<<<<<< HEAD
 
-
-
-
+=======
+>>>>>>> feature1
